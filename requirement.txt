@@ -1,0 +1,8 @@
+# `pip install -r requirements.txt` before you can run this.
+
+pandas
+tkinter
+PIL
+tabulate
+matplotlib.pyplot
+prettytable
